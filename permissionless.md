@@ -1,0 +1,1 @@
+anyone can upload a [[CosmWasm]] contract in the case of [[Juno]]

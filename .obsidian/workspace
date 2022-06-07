@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "4dc4a0770144a39e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fec0816909e8db4",
+        "type": "leaf",
+        "dimension": 50.76923076923076,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "9b752f8ee3438736",
+        "type": "leaf",
+        "dimension": 16.08974358974359,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "permissionless.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0db819f38c8bc185",
+        "type": "leaf",
+        "dimension": 33.14102564102564,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "code.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63e4244c5ca7dcd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad25fbc4bf68e3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89081078a892aa24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3cc883fb4042879",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce3a036e0c83d826",
+    "type": "split",
+    "children": [
+      {
+        "id": "77fc9162f4c7692c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01d50cd611e84603",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb1d4a9c864aef4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8fec0816909e8db4",
+  "lastOpenFiles": [
+    "Self-Sovereign Identity.md",
+    "Interchain.md",
+    "Cosmos SDK.md",
+    "Fuzzing.md",
+    "Community Computer.md",
+    "Osmosis.md",
+    "Juno.md",
+    "Interdependence.md",
+    "permissionless.md",
+    "Roollups.md"
+  ]
+}

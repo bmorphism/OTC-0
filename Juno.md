@@ -1,0 +1,1 @@
+[[permissionless]] CosmWasm contracts

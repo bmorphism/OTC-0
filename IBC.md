@@ -1,0 +1,1 @@
+[[Pluralism]] - allows for configuring systems in a manner aligned with values / objectives
